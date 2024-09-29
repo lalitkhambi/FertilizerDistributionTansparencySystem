@@ -99,7 +99,11 @@ IoT Integration: Integrate IoT devices to track the real-time movement of fertil
 Multi-Signature Transactions: Implement multi-sig functionality for additional security and approval of transactions.
 Mobile Application: Develop a mobile app that allows farmers to easily monitor fertilizer stock and purchase availability on-the-go.
 Contributing
-Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository, submit a pull request, or open an issue with suggestions.
+Contributions are welcome! If you'd like to contribute 
+
+Uploading fertilizer video (1) (1) (1) (1).mp4…
+
+to this project, feel free to fork the repository, submit a pull request, or open an issue with suggestions.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
