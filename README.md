@@ -107,6 +107,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact
 For questions or suggestions, please reach out to the project maintainer via GitHub.
 mail - khambilalit@gmail.com
-mon.no. - 9813986896
+mob.no. - 9813986896
 
 Sample transactions recorded on the blockchain.
