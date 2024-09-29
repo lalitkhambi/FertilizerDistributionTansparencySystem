@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/f3b4b4f7-6249-44e4-8c79-7a966e18f4bb
+
+
+
+https://github.com/user-attachments/assets/d0f5a839-4cbe-4cc5-af75-e12bb0863d5a
+
 # FertilizerDistributionTansparency System
 
 Empowering farmers and ensuring transparency in fertilizer distribution using blockchain.
